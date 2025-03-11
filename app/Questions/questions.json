@@ -1,0 +1,29 @@
+
+{
+  "questions": [
+    {
+      "question": "What is the quickest memory to access?",
+      "category": "Memory",
+      "subCategory": "memory sub",
+      "type": "Multiple Choice",
+      "answer": "Register",
+      "options": ["Disk", "RAM", "L1 Cache", "Register"]
+    },
+    {
+      "question": "___ is the fastest algorithm for finding the shortest path with negative edge weights.",
+      "category": "Algorithms",
+      "type": "Fill-in-The-Blank",
+      "answer": "Bellman-Ford"
+    },
+    {
+      "question": "Given an array of integers nums and an integer target return indices of the two numbers such that they add up to target.",
+      "category": "Algorithms",
+      "type": "Leetcode"
+    },
+    {
+      "question": "Which of these algorithms run in O(n)?",
+      "category": "Algorithms",
+      "type": "CheckBox"
+    }
+  ]
+}
