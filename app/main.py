@@ -28,3 +28,6 @@ for item in data["questions"]:
 for q in questions_list:
     print(f"Q: {q.question}")
     print(f"A: {q.answer}\n")
+
+while True:
+    1==1
